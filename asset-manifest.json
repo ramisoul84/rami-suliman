@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/rami-suliman/static/css/main.6245f772.css",
-    "main.js": "/rami-suliman/static/js/main.39554971.js",
-    "static/media/cv.pdf": "/rami-suliman/static/media/cv.666776444ac16e0cd2fb.pdf",
+    "main.js": "/rami-suliman/static/js/main.cc7e797e.js",
     "static/media/homeLand.jpg": "/rami-suliman/static/media/homeLand.50a87ad8dda0d5b172d5.jpg",
+    "static/media/cv.pdf": "/rami-suliman/static/media/cv.a7bcfe5896b0d0fc59af.pdf",
     "static/media/homePort.jpg": "/rami-suliman/static/media/homePort.8ad165e9a1ef3028edec.jpg",
     "static/media/crypto.jpg": "/rami-suliman/static/media/crypto.b16ea93cc08fa4b9543d.jpg",
     "static/media/profile-react.jpg": "/rami-suliman/static/media/profile-react.657ae349816b7f7953d8.jpg",
@@ -12,10 +12,10 @@
     "static/media/profile.jpg": "/rami-suliman/static/media/profile.f7ae9cb2686ab39f2a65.jpg",
     "index.html": "/rami-suliman/index.html",
     "main.6245f772.css.map": "/rami-suliman/static/css/main.6245f772.css.map",
-    "main.39554971.js.map": "/rami-suliman/static/js/main.39554971.js.map"
+    "main.cc7e797e.js.map": "/rami-suliman/static/js/main.cc7e797e.js.map"
   },
   "entrypoints": [
     "static/css/main.6245f772.css",
-    "static/js/main.39554971.js"
+    "static/js/main.cc7e797e.js"
   ]
 }
