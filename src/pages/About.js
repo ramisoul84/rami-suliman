@@ -34,7 +34,7 @@ const About = () => {
             <h5>
               RUDN, <small>Russia</small>
             </h5>
-            <h6>2021-present</h6>
+            <h6>2021-2023</h6>
           </ul>
         </div>
         <div className="about-card">
@@ -43,9 +43,9 @@ const About = () => {
             <h2>Experience</h2>
           </div>
           <ul>
-            <li>Data Analysis</li>
+            <li>Teacher</li>
             <h5>
-              Lattakia Port, <small>Syria</small>
+              Marine Academy, <small>Syria</small>
             </h5>
             <h6>2009-2021</h6>
             <br />

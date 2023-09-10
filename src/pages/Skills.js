@@ -11,6 +11,7 @@ import { SiMysql } from "react-icons/si";
 import { DiPython } from "react-icons/di";
 import { SiCplusplus } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
+import { SiMongodb } from "react-icons/si";
 import "./skills.css";
 
 const fe_data = [
@@ -24,7 +25,8 @@ const be_data = [
   { id: 1, icon: <SiPhp />, name: "PHP", rate: 60 },
   { id: 2, icon: <FaNodeJs />, name: "Node.js", rate: 50 },
   { id: 3, icon: <SiMysql />, name: "MySQL", rate: 60 },
-  { id: 4, icon: <SiCplusplus />, name: "C++", rate: 60 },
+  { id: 4, icon: <SiMongodb />, name: "MongoDB", rate: 60 },
+  { id: 5, icon: <SiCplusplus />, name: "C++", rate: 60 },
 ];
 const ai_data = [
   { id: 1, icon: <DiPython />, name: "Python", rate: 80 },

@@ -22,8 +22,8 @@ const data = [
     id: 3,
     image: crypto,
     title: "cryptography",
-    github: "https://github.com/ramisoul84/crypto",
-    demo: " https://ramisoul84.github.io/crypto/",
+    github: "https://github.com/ramisoul84/rudn-master",
+    demo: " https://ramisoul84.github.io/rudn-master/",
   },
 ];
 
@@ -35,7 +35,7 @@ const Projects = () => {
         <h2>{item.title}</h2>
         <div className="project-btns">
           <a href={item.github}>
-            <button className="project-btn">GitHup</button>
+            <button className="project-btn">GitHub</button>
           </a>
           <a href={item.demo}>
             <button className="project-btn">Demo</button>
