@@ -4,13 +4,15 @@
   gap: 2rem;
   width: 80vw;
   margin: 0 auto;
+  margin-bottom: 4rem;
+  overflow: auto;
 }
 
 .project-item {
   width: 100%;
   background-color: transparent;
   border: 1px solid var(--color-m);
-  border-radius: 2rem;
+  border-radius: 1rem;
   text-align: center;
   transition: var(--transition);
   padding: 1rem;
@@ -27,9 +29,10 @@
 
 .project-item .project-img {
   width: 100%;
+  min-height: 10rem;
   display: block;
   border: 1px solid var(--color-m);
-  border-radius: 2rem;
+  border-radius: 1rem;
 }
 
 .project-item h2 {
@@ -37,6 +40,12 @@
   text-align: left;
   margin: 0.5rem 0;
   font-size: 1.2rem;
+}
+
+.project-item .stack {
+  display: flex;
+  color: var(--color-l);
+  margin: 0.5rem 0;
 }
 
 .project-btns {
@@ -60,6 +69,12 @@
 .project-btn:hover {
   background: transparent;
   color: var(--color-l);
+}
+
+.stack {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
 }
 
 /* ========= Media Quiries  (Med) ========== */

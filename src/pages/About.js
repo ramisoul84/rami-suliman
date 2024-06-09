@@ -18,7 +18,7 @@ const About = () => {
             <h2>Education</h2>
           </div>
           <ul>
-            <li>Bachelor of Marine Engineering</li>
+            <li>Bachelor of Computer Science</li>
             <h5>
               Tishreen University, <small>Syria</small>
             </h5>
@@ -43,17 +43,17 @@ const About = () => {
             <h2>Experience</h2>
           </div>
           <ul>
-            <li>Teacher</li>
+            <li>IT Teacher</li>
             <h5>
               Marine Academy, <small>Syria</small>
             </h5>
-            <h6>2009-2021</h6>
+            <h6>2010-2019</h6>
             <br />
-            <li>Freelance</li>
+            <li>Junior Back End developer</li>
             <h5>
               RUDN, <small>Russia</small>
             </h5>
-            <h6>2021-present</h6>
+            <h6>2021-2023</h6>
           </ul>
         </div>
       </div>

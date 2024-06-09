@@ -1,7 +1,7 @@
 {
   "name": "rami-suliman",
   "version": "0.1.0",
-  "homepage": "https://ramisoul84.github.io/rami-suliman",
+  "homepage": "http://ramisuliman.ru",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
